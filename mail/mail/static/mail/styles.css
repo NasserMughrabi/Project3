@@ -1,3 +1,15 @@
 textarea {
     min-height: 400px;
 }
+
+#emails-view{
+    background-color: red;
+}
+
+#whole-email{
+    background-color: blue;
+}
+
+.email-sender{
+    background-color: green;
+}
